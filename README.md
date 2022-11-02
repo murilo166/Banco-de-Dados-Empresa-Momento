@@ -5,4 +5,4 @@ Neste Projeto chamado empresa "momento" proposto pelo meu professor criei um ban
 
 ## departamentos como: Admisnistração, Recursos Humanos,Transporte, Tecnologia e etc...
 
-## regioes e paises de atuaçâo da empresa
+## regiôes e paises de atuaçâo da empresa
